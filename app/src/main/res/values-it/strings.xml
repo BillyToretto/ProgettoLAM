@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Progetto_LAM</string>
+    <string name="txtHello">Ciao Mondo!</string>
+    <string name="txt_lte">LTE</string>
+    <string name="hello_blank_fragment">Ciao frag</string>
+    <string name="Misura">Rileva</string>
+</resources>
